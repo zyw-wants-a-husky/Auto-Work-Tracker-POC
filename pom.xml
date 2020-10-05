@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.imooc</groupId>
+	<groupId>com.demo</groupId>
 	<artifactId>sell</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>sell</name>
+	<name>auto work tracker poc</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -97,7 +97,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>sell</finalName>
+		<finalName>auto work tracker poc</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
