@@ -11,6 +11,6 @@ import org.springframework.cache.annotation.EnableCaching;
 public class SellApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SellApplication.class, args);
+		SpringApplication.run(AWTPocApplication.class, args);
 	}
 }
